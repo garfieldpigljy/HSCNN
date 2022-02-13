@@ -1,1 +1,1 @@
-Data samples that show the format of the input data. 
+Data samples that show the formats of the input data. 
